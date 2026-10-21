@@ -5,7 +5,7 @@
 
 - 🌱 目前正在学习：**全栈 Web 应用开发、AI 相关技术**
 - 📝 技术博客：**[CSDN 博客](https://blog.csdn.net/liusaidh?type=blog)**
-- 🌐 个人域名：**[coderliu.top](https://superliu.icu)**
+- 🌐 个人域名：**[superliu.icu](https://superliu.icu)**
 
 
 ### 🏆 算法竞赛获奖
@@ -32,6 +32,7 @@
 <p align="left">
 <a href="https://github.com/liusaidh1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="liusaidh1102" height="30" width="40" /></a>
 <a href="https://leetcode.cn/u/dreamy-pasteurhl9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dreamy-pasteurhl9" height="30" width="40" /></a>
+<a href="mailto:16638530168@163.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="16638530168@163.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ 语言和工具</h3>
